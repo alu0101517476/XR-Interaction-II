@@ -6,3 +6,4 @@ Email: alu0101517476@ull.edu.es
 
 ---
 
+![gif](XR.gif)
